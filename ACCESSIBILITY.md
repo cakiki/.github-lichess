@@ -5,3 +5,4 @@ Lichess is committed to providing everyone with an accessible and inclusive ches
 - https://lichess.org/page/blind-mode-guide
 - https://lichess.org/page/blind-mode-tutorial
 - https://lichess.org/team/the-blind-mode-team
+- https://lichess.org/page/blind-mode-changelog
