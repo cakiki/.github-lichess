@@ -2,6 +2,7 @@
 
 Lichess is committed to providing everyone with an accessible and inclusive chess experience.
 
+
 ## Resources
 
 - https://lichess.org/page/blind-mode-guide
@@ -11,3 +12,6 @@ Lichess is committed to providing everyone with an accessible and inclusive ches
 
 ## Reporting accessibility issues
 
+- GitHub Issues + PR if able to
+- Email
+- Discord?
